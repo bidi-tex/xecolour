@@ -15,6 +15,6 @@ Issues may be entered here.
 If it proves necessary to update the files, this repository will
 be filled with files retrieved from CTAN:
 
-https://www.ctan.org/obsolete/macros/xetex/latex/xecolour.zip
+http://mirrors.ctan.org/obsolete/macros/xetex/latex/xecolour.zip
 
 
